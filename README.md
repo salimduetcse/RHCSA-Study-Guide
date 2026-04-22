@@ -21,3 +21,31 @@ The purpose of this repo is to provide a structured hands-on learning path for m
 
 ## Goal
 To prepare for the RHCSA exam through consistent hands-on practice and documentation.
+
+RHCSA-Lab/
+├── README.md
+├── notes/
+│   ├── linux-commands.md
+│   ├── users-groups.md
+│   ├── permissions.md
+│   ├── networking.md
+│   ├── storage-lvm.md
+│   ├── selinux.md
+│   └── firewall.md
+├── labs/
+│   ├── lab01-basic-commands.md
+│   ├── lab02-users-and-groups.md
+│   ├── lab03-storage.md
+│   ├── lab04-networking.md
+│   └── lab05-services.md
+├── scripts/
+│   ├── user-create.sh
+│   ├── backup.sh
+│   └── disk-check.sh
+├── practice-exams/
+│   ├── rhcsa-practice-1.md
+│   └── rhcsa-practice-2.md
+└── troubleshooting/
+    ├── boot-issues.md
+    ├── network-issues.md
+    └── permission-denied.md
